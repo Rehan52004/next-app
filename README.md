@@ -26,6 +26,9 @@
 <h4>View post page</h4>
 ![view-post](https://github.com/user-attachments/assets/517feef0-16ee-4d71-8513-45d279cd84e5)
 
+<h4>Confirm dialog</h4>
+![confirm-dialog](https://github.com/user-attachments/assets/4e621f62-bbbf-46ea-849c-a8392414a8bd)
+
 
 
 
