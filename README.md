@@ -18,7 +18,7 @@
 <h2>Before running the application here a the basic overview application</h2>
 
 <h4>Home Page</h4>
-![home-next](https://github.com/user-attachments/assets/532cd12a-f493-4ccd-9311-ff6f99784c55)
+![home-next](https://github.com/user-attachments/assets/70718f8f-e556-4878-80ac-5e1422e0249d)
 
 <h4>Cerate post page</h4>
 ![create-post](https://github.com/user-attachments/assets/6ae82d0e-9a4b-4c85-82b4-f6cc54c7410d)
